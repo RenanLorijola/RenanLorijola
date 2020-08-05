@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Renan Zago Lorijola
-[![Linkedin Badge](https://img.shields.io/badge/-renanzagolorijola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanzagolorijola/)](www.linkedin.com/in/renanzagolorijola/)
+[![Linkedin Badge](https://img.shields.io/badge/-renanzagolorijola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanzagolorijola/)](https://www.linkedin.com/in/renanzagolorijola/)
 [![Gmail Badge](https://img.shields.io/badge/-renanzago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanzago@gmail.com)](mailto:renanzago@gmail.com)
 
 ## Desenvolvedor FullStack Java e Ciêntista de Dados
