@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Desenvolvedor FullStack Java e Ciêntista de Dados
 
-- 🌱 Melhorando minhas habilidades em back-end, front-end e ciência de dados.
-- ⚡ Tecnologias: HTML, CSS, JS, TS, Angular2+, Spring Framework, JPA, Hibernate, Java, Python, R, MySQL, PostgreSQL, MongoDB.
+- 🌱 Melhorando minhas habilidades em back-end e front-end.
+- ⚡ Tecnologias: HTML, CSS, JS, TS, Angular2+, React, React-Native, Spring Framework, Node.js, JPA, Hibernate, Java, Python, R, MySQL, PostgreSQL.
 - 📚 Bootcamp Java Web Fullstack - Generation Brasil, 02/2020 - 07/2020.
 - 📚 Bacharelado em Ciência e Tecnologia ( Ciência da Computação ) - UFABC, 06/2018 - 12/2022.
