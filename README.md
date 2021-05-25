@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## Desenvolvedor FullStack Java
 
 - 🌱 Melhorando minhas habilidades em back-end e front-end.
-- ⚡ Tecnologias: HTML, CSS, JS, TS, Angular, React, React-Native, Node.js, Java, Python, MySQL, PostgreSQL.
+- ⚡ Tecnologias: HTML, CSS, JS, TS, Angular, React, React-Native, Node.js, Java, Spring, Python, Django.
 - 📚 Bootcamp Java Web Fullstack - Generation Brasil, 02/2020 - 07/2020.
 - 📚 Bacharelado em Ciência e Tecnologia ( Ciência da Computação ) - UFABC, 06/2018 - 12/2022.
