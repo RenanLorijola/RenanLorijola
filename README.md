@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 - ⚡ Tecnologias: HTML, CSS, JS, TS, React, React-Native, Node.js, Java, Spring, Python.
 - 📚 Bootcamp Java Web Fullstack - Generation Brasil, 02/2020 - 07/2020.
-- 📚 Bacharelado em Ciência e Tecnologia ( Ciência da Computação ) - UFABC, 06/2018 - 12/2022.
+- 📚 Bacharelado em Ciência e Tecnologia - UFABC, 06/2018 - 12/2022.
 - 📚 Bacharelado em Ciência da Computação - UFABC, 06/2018 - 12/2023.
