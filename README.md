@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-renanzagolorijola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanzagolorijola/)](https://www.linkedin.com/in/renanzagolorijola/)
 [![Gmail Badge](https://img.shields.io/badge/-renanzago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanzago@gmail.com)](mailto:renanzago@gmail.com)
 
-## Desenvolvedor Frontend
+## Desenvolvedor Fullstack
 
-- ⚡ Tecnologias: HTML, CSS, JS, TS, React, React-Native, Node.js, Java, Spring, Python.
+- ⚡ Tecnologias: HTML, CSS, JS, TS, React, React-Native, Node.js, Java, Spring.
 - 📚 Bootcamp Java Web Fullstack - Generation Brasil, 02/2020 - 07/2020.
 - 📚 Bacharelado em Ciência e Tecnologia - UFABC, 06/2018 - 12/2022.
 - 📚 Bacharelado em Ciência da Computação - UFABC, 06/2018 - 12/2023.
